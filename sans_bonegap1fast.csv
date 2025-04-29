@@ -1,0 +1,10 @@
+0,CombatZoneResize,133,251,508,391,TLResume,,
+0,HeartTeleport,320,322,,,,,
+0,HeartMode,0,,,,,,
+0,TLPause,,,,,,,
+0.2,BoneVRepeat,98,257,52,0,210,8,133
+0,BoneVRepeat,98,334,52,0,210,8,133
+0,BoneVRepeat,533,257,52,2,210,8,133
+0,BoneVRepeat,533,334,52,2,210,8,133
+0,BoneHRepeat,-62,314,64,0,560,8,373
+6,EndAttack,,,,,,,

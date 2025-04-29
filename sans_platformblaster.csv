@@ -1,0 +1,16 @@
+0,CombatZoneResize,133,251,508,391,TLResume,,,
+0,HeartTeleport,320,322,,,,,
+0,HeartMode,0,,,,,,,
+0,TLPause,,,,,,,,
+0,SET,Loop,5,,,,,,
+0,SUB,Loop,$Loop,1,,,,,
+0,RND,Y,3,,,,,,
+0,MUL,Y,$Y,40,,,,,
+0,ADD,Y,$Y,285,,,,,
+0,GasterBlaster,1,73,$Y,73,$Y,0,0.56666,0.1
+0.9,RND,Y,3,,,,,,
+0,MUL,Y,$Y,40,,,,,
+0,ADD,Y,$Y,285,,,,,
+0,GasterBlaster,1,563,$Y,563,$Y,180,0.56666,0.1
+0.9,JMPNZ,6,$Loop,,,,,,
+0.6,EndAttack,,,,,,,,
