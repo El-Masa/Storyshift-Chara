@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1751666060,
+	"version": 1754539101,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -49,6 +49,7 @@
 		"images/touchdpad-sheet0.png",
 		"images/playerheart-sheet0.png",
 		"images/playerheart-sheet1.png",
+		"images/playerheart-sheet2.png",
 		"images/menuitem-sheet0.png",
 		"images/heartshard-sheet0.png",
 		"images/heartshard-sheet1.png",
@@ -91,7 +92,6 @@
 		"sans_boneslideh.csv",
 		"sans_bonegap1fast.csv",
 		"sans_platformblasterfast.csv",
-		"sans_spare.csv",
 		"sans_bonestab1.csv",
 		"sans_bonestab2.csv",
 		"sans_boneslidev.csv",
